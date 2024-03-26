@@ -1,4 +1,6 @@
 *.cfg
 *.vcfg
 !autoexec.cfg
-!training.cfg
+!practice.cfg
+!binds.cfg
+!crosshair.cfg
